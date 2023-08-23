@@ -1,0 +1,6 @@
+INDEX VERSION 1.4+C:\Users\nikhi\Desktop\serverless-A1\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+3066155557.index
+32520548.index
+1703936184.index
+3017040685.index
+948802646.index
